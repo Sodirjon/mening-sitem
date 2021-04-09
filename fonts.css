@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "lato";
+    src: url(./style/font/Lato/Lato-Regular.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "roboto";
+    src: url(./style/font/Roboto/Roboto-Italic.ttf);
+}
